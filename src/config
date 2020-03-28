@@ -1,0 +1,4 @@
+#do not add spaces around =
+SQL_URL=jdbc:mysql://localhost:3306/firstdb
+SQL_USR=root
+SQL_PWD=
